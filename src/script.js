@@ -8,7 +8,7 @@ import { Sky } from 'three/examples/jsm/Addons.js'
  * Base
  */
 // Debug
-const gui = new GUI()
+//const gui = new GUI()
 
 // Canvas
 const canvas = document.querySelector('canvas.webgl')
